@@ -5,4 +5,4 @@
 paper_results/yolo/runs/
 
 # MLflow generated files
-runs/mlflow/
+runs/mlflow/mse/
