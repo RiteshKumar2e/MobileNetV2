@@ -1,0 +1,131 @@
+{
+  "classification": {
+    "accuracy": {
+      "mean": 93.33333333333333,
+      "std": 0.0,
+      "n_seeds": 1,
+      "values": [
+        93.333
+      ],
+      "formatted": "93.33 +- 0.00"
+    },
+    "precision_macro": {
+      "mean": 94.67667047105209,
+      "std": 0.0,
+      "n_seeds": 1,
+      "values": [
+        94.677
+      ],
+      "formatted": "94.68 +- 0.00"
+    },
+    "recall_macro": {
+      "mean": 93.33333333333333,
+      "std": 0.0,
+      "n_seeds": 1,
+      "values": [
+        93.333
+      ],
+      "formatted": "93.33 +- 0.00"
+    },
+    "f1_macro": {
+      "mean": 92.9545010297591,
+      "std": 0.0,
+      "n_seeds": 1,
+      "values": [
+        92.955
+      ],
+      "formatted": "92.95 +- 0.00"
+    },
+    "AP50": {
+      "mean": 9.711859789984736,
+      "std": 0.0,
+      "n_seeds": 1,
+      "values": [
+        9.712
+      ],
+      "formatted": "9.71 +- 0.00"
+    },
+    "AP75": {
+      "mean": 3.616887098018964,
+      "std": 0.0,
+      "n_seeds": 1,
+      "values": [
+        3.617
+      ],
+      "formatted": "3.62 +- 0.00"
+    },
+    "mAP50_95": {
+      "mean": 4.302759874201146,
+      "std": 0.0,
+      "n_seeds": 1,
+      "values": [
+        4.303
+      ],
+      "formatted": "4.30 +- 0.00"
+    },
+    "_n_seeds": 1
+  },
+  "localization": {
+    "AP50": 9.711859789984736,
+    "AP75": 3.616887098018964,
+    "mAP50_95": 4.302759874201146,
+    "precision@50": 10.175438596491228,
+    "recall@50": 6.8235294117647065,
+    "f1@50": 8.169014084507042,
+    "n_gt_boxes": 867,
+    "n_pred_regions": 570,
+    "classes_evaluated": [
+      "crazing",
+      "inclusion",
+      "patches",
+      "pitted_surface",
+      "rolled-in_scale",
+      "scratches"
+    ],
+    "per_class_AP50": {
+      "crazing": 0.1414427157001414,
+      "inclusion": 0.0,
+      "patches": 0.11741558771261741,
+      "pitted_surface": 57.642663472799285,
+      "rolled-in_scale": 0.0,
+      "scratches": 0.3696369636963696
+    },
+    "per_class_AP75": {
+      "crazing": 0.020206102242877347,
+      "inclusion": 0.0,
+      "patches": 0.0,
+      "pitted_surface": 21.681116485870906,
+      "rolled-in_scale": 0.0,
+      "scratches": 0.0
+    },
+    "per_class_mAP50_95": {
+      "crazing": 0.03277878808288992,
+      "inclusion": 0.0,
+      "patches": 0.011741558771261741,
+      "pitted_surface": 25.63606530099299,
+      "rolled-in_scale": 0.0,
+      "scratches": 0.13597359735973594
+    }
+  },
+  "environment": {
+    "platform": "Windows-10-10.0.26200-SP0",
+    "processor": "AMD64 Family 23 Model 24 Stepping 1, AuthenticAMD",
+    "python": "3.10.11",
+    "tensorflow": "2.15.0",
+    "numpy": "1.26.4",
+    "gpus": [
+      "none"
+    ],
+    "input_resolution": "200x200x3",
+    "inference_batch_size": 1,
+    "ram_gb": 9.9,
+    "cpu_cores_physical": 2,
+    "cpu_cores_logical": 4
+  },
+  "split": {
+    "train": 1260,
+    "val": 180,
+    "test": 360
+  },
+  "quick_mode": true
+}
