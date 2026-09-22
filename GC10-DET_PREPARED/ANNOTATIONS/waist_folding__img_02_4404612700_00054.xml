@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation><folder>waist_folding</folder><filename>waist_folding__img_02_4404612700_00054.jpg</filename><size><width>224</width><height>224</height><depth>1</depth></size><segmented>0</segmented><object><name>waist_folding</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>52.72</xmin><ymin>51.97</ymin><xmax>203.33</xmax><ymax>212.8</ymax></bndbox></object></annotation>

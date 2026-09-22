@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation><folder>oil_spot</folder><filename>oil_spot__img_07_435974600_00226.jpg</filename><size><width>224</width><height>224</height><depth>1</depth></size><segmented>0</segmented><object><name>oil_spot</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>171.83</xmin><ymin>39.42</ymin><xmax>195.23</xmax><ymax>85.79</ymax></bndbox></object></annotation>

@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation><folder>silk_spot</folder><filename>silk_spot__img_01_425005700_00154.jpg</filename><size><width>224</width><height>224</height><depth>1</depth></size><segmented>0</segmented><object><name>silk_spot</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>94.17</xmin><ymin>3.58</ymin><xmax>179.7</xmax><ymax>218.18</ymax></bndbox></object></annotation>

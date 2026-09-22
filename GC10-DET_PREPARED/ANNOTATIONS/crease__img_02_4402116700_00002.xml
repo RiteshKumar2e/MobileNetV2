@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation><folder>crease</folder><filename>crease__img_02_4402116700_00002.jpg</filename><size><width>224</width><height>224</height><depth>1</depth></size><segmented>0</segmented><object><name>crease</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>0.44</xmin><ymin>114.46</ymin><xmax>103.03</xmax><ymax>127.68</ymax></bndbox></object></annotation>

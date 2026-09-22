@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation><folder>water_spot</folder><filename>water_spot__img_01_425008500_00704.jpg</filename><size><width>224</width><height>224</height><depth>1</depth></size><segmented>0</segmented><object><name>water_spot</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>104.34</xmin><ymin>42.11</ymin><xmax>160.12</xmax><ymax>168.45</ymax></bndbox></object></annotation>

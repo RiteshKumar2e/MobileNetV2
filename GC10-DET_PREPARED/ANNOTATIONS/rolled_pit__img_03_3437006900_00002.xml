@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation><folder>rolled_pit</folder><filename>rolled_pit__img_03_3437006900_00002.jpg</filename><size><width>224</width><height>224</height><depth>1</depth></size><segmented>0</segmented><object><name>rolled_pit</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>0.11</xmin><ymin>29.79</ymin><xmax>26.69</xmax><ymax>53.76</ymax></bndbox></object></annotation>
