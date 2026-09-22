@@ -1,0 +1,4 @@
+Model,Task,Init,Accuracy,Precision,Recall,F1,Params,MACs (M),Latency ms,CPU FPS,Train s
+MobileNetV2,classification,ImageNet,97.22,97.55,97.22,97.21,2265670.0,261.8,43.4,21.5,173.0
+ResNet50,classification,ImageNet,100.0,100.0,100.0,100.0,23600006.0,3320.2,220.69,4.4,1113.0
+Proposed (full),classification,,93.33,94.68,93.33,92.95,,,,,

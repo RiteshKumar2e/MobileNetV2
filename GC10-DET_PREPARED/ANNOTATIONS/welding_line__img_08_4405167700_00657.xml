@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation><folder>welding_line</folder><filename>welding_line__img_08_4405167700_00657.jpg</filename><size><width>224</width><height>224</height><depth>1</depth></size><segmented>0</segmented><object><name>welding_line</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>1.31</xmin><ymin>3.58</ymin><xmax>49.33</xmax><ymax>15.23</ymax></bndbox></object></annotation>

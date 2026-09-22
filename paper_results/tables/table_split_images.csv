@@ -1,0 +1,4 @@
+,Total,Crazing,Inclusion,Patches,Pitted surface,Rolled-in scale,Scratches
+Train,1260,210,210,210,210,210,210
+Validation,180,30,30,30,30,30,30
+Test,360,60,60,60,60,60,60
