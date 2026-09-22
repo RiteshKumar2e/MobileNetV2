@@ -1,0 +1,4 @@
+,Total,Punching hole,Welding line,Crescent gap,Water spot,Oil spot,Silk spot,Inclusion,Rolled pit,Crease,Waist folding
+Train,1612,153,191,158,202,143,455,150,22,36,102
+Validation,231,22,27,23,29,20,65,22,3,5,15
+Test,461,44,55,45,57,41,130,43,6,11,29

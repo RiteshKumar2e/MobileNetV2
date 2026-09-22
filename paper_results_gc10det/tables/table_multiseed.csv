@@ -1,0 +1,2 @@
+Model,Seeds,accuracy,precision_macro,recall_macro,f1_macro,AP50,AP75,mAP50_95
+Proposed (full),1,76.79 +- 0.00,75.56 +- 0.00,63.96 +- 0.00,65.19 +- 0.00,1.82 +- 0.00,0.13 +- 0.00,0.51 +- 0.00
