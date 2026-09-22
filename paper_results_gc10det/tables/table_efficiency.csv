@@ -1,0 +1,4 @@
+Model,Params (total),Params (trainable),FLOPs (M),MACs (M),Size (MiB),CPU latency ms (median),CPU latency ms (p95),CPU FPS
+MobileNetV2 (baseline),2423626,165386,615.27,307.64,9.25,39.57,44.47,25.3
+MobileNetV2 + FPN,3196618,938378,3350.04,1675.02,12.19,95.19,99.6,10.5
+Proposed (full),3364580,1104804,3376.4,1688.2,12.83,106.78,111.28,9.4

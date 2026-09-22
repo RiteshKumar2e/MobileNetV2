@@ -1,0 +1,15 @@
+{
+  "platform": "Windows-10-10.0.26200-SP0",
+  "processor": "AMD64 Family 23 Model 24 Stepping 1, AuthenticAMD",
+  "python": "3.10.11",
+  "tensorflow": "2.15.0",
+  "numpy": "1.26.4",
+  "gpus": [
+    "none"
+  ],
+  "input_resolution": "224x224x3",
+  "inference_batch_size": 1,
+  "ram_gb": 9.9,
+  "cpu_cores_physical": 2,
+  "cpu_cores_logical": 4
+}
