@@ -1,0 +1,8 @@
+# Model weights
+*.pt
+
+# YOLO generated runs
+paper_results/yolo/runs/
+
+# MLflow generated files
+runs/mlflow/
