@@ -1,5 +1,5 @@
 Config,fpn_channels,Params,MACs (M),CPU FPS
-MobileNetV2 backbone only,-,2423626,308,20.1
-Proposed (full),32,2382812,409,18.4
-Proposed (full),64,2607660,676,15.3
-Proposed (full),128,3364580,1688,7.7
+MobileNetV2 backbone only,-,2423626,308,13.4
+Proposed (full),32,2382812,409,13.3
+Proposed (full),64,2607660,676,13.9
+Proposed (full),128,3364580,1688,6.7
