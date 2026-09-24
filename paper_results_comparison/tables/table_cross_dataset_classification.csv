@@ -1,0 +1,7 @@
+Dataset,Model,Task,Init,Accuracy,Precision,Recall,F1,Params,MACs (M),Latency ms,CPU FPS,Train s
+neu_det,MobileNetV2,classification,ImageNet,97.22,97.55,97.22,97.21,2265670.0,261.8,43.4,21.5,173.0
+neu_det,ResNet50,classification,ImageNet,100.0,100.0,100.0,100.0,23600006.0,3320.2,220.69,4.4,1113.0
+neu_det,Proposed (full),classification,,93.33,94.68,93.33,92.95,,,,,
+gc10_det,MobileNetV2,classification,ImageNet,80.69,70.11,67.56,67.8,2270794.0,299.9,47.77,21.3,325.0
+gc10_det,ResNet50,classification,ImageNet,85.9,86.84,78.9,81.79,23608202.0,3865.2,378.99,3.6,2069.0
+gc10_det,Proposed (full),classification,,76.79,75.56,63.96,65.19,,,,,
