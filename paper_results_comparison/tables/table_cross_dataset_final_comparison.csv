@@ -1,0 +1,7 @@
+Dataset,Model,Task,AP50,AP75,mAP50_95,Params
+gc10_det,Proposed (CAM-based localization),"weakly-supervised, no box labels",1.82,0.13,0.51,
+gc10_det,"FCOS (AMFF+CSAF+SEAM, ours)",supervised detection,0.0,0.0,0.0,3971433.0
+gc10_det,"APG-YOLO-inspired (+PKI+AIFI+GFPN, ours)",supervised detection,1.762974795013394,0.0286959632490372,0.6583719144932874,5489897.0
+gc10_det,yolov8n,supervised detection,27.52,8.2,11.68,3007598.0
+gc10_det,yolo11n,supervised detection,25.1,4.6,9.59,2584102.0
+gc10_det,yolo12n,supervised detection,23.14,6.12,9.56,2558678.0

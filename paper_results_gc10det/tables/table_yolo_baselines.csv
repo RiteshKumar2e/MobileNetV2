@@ -2,3 +2,4 @@ Model,Task,AP50,AP75,mAP50_95,Params,Latency ms (median),FPS,imgsz
 yolov8n,supervised detection,27.52,8.2,11.68,3007598,62.1,16.1,224
 yolo11n,supervised detection,25.1,4.6,9.59,2584102,76.88,13.0,224
 yolo12n,supervised detection,23.14,6.12,9.56,2558678,70.99,14.1,224
+SDF-YOLO (ours: YOLO11n + AIFI + PKI/CAA + GFPN-dense),supervised detection,6.93,0.29,1.59,3765030,91.52,10.9,224
