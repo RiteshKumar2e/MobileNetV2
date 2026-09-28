@@ -3,11 +3,20 @@
 *.h5
 *.weights.h5
 
+# Large dataset archives
+GC10-DET.zip
+NEU-DET.zip
+
 # YOLO exported datasets and per-run training artifacts
 paper_results/yolo/runs/
 paper_results/yolo/dataset/
 paper_results_gc10det/yolo/runs/
 paper_results_gc10det/yolo/dataset/
 
-# MLflow generated files
-runs/mlflow/
+# Training and MLflow artifacts
+runs/
+mlruns/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
