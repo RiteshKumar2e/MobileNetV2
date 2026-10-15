@@ -1,0 +1,28 @@
+% needs \usepackage{booktabs}
+\begin{table}[t]\centering\small
+\caption{Detection results on the NEU-DET test split.}
+\begin{tabular}{lcccccccc}\toprule
+Model & mAP50 & mAP75 & mAP50-95 & F1 & P & R & Params (M) & GFLOPs \\ \midrule
+SDF-YOLO (ours) & 75.23 & 41.59 & 42.46 & 72.61 & 72.99 & 72.54 & 11.60 & 27.4 \\
+YOLO12s & \textbf{77.51} & \textbf{44.51} & \textbf{44.82} & 71.70 & 69.55 & \textbf{74.53} & 9.23 & 21.2 \\
+YOLOv9s & 77.27 & 42.10 & 44.10 & \textbf{72.96} & 75.57 & 70.77 & 7.17 & 26.7 \\
+YOLO11n & 76.88 & 43.54 & 44.18 & 72.31 & 74.91 & 70.67 & 2.58 & 6.3 \\
+YOLO11s & 76.20 & 42.32 & 43.85 & 71.01 & 77.07 & 67.22 & 9.42 & 21.3 \\
+YOLOv8s & 75.84 & 40.82 & 43.02 & 71.82 & \textbf{77.63} & 67.72 & 11.13 & 28.4 \\
+YOLOv5s & 75.70 & 43.25 & 43.72 & 71.29 & 74.49 & 69.24 & 9.11 & 23.8 \\
+YOLOv10s & 75.32 & 42.49 & 42.91 & 72.64 & 75.38 & 70.58 & 7.22 & 21.4 \\
+\bottomrule\end{tabular}\end{table}
+
+\begin{table}[t]\centering\small
+\caption{Detection results on the GC10-DET test split.}
+\begin{tabular}{lcccccccc}\toprule
+Model & mAP50 & mAP75 & mAP50-95 & F1 & P & R & Params (M) & GFLOPs \\ \midrule
+SDF-YOLO (ours) & 64.85 & 28.54 & 31.97 & \textbf{65.41} & \textbf{74.60} & 61.10 & 11.60 & 27.4 \\
+YOLO12s & \textbf{67.21} & 27.37 & 32.42 & 64.71 & 65.97 & \textbf{66.96} & 9.23 & 21.2 \\
+YOLO11n & 65.05 & \textbf{29.53} & \textbf{32.57} & 63.65 & 63.59 & 65.27 & 2.58 & 6.3 \\
+YOLOv10s & 63.99 & 28.71 & 31.86 & 63.80 & 64.78 & 64.23 & 7.22 & 21.4 \\
+YOLOv9s & 63.95 & 26.02 & 30.95 & 63.51 & 65.55 & 63.67 & 7.17 & 26.7 \\
+YOLO11s & 63.86 & 26.63 & 30.33 & 61.70 & 72.79 & 58.05 & 9.42 & 21.3 \\
+YOLOv5s & 63.74 & 28.87 & 32.08 & 61.10 & 60.57 & 62.98 & 9.12 & 23.8 \\
+YOLOv8s & 63.48 & 28.63 & 31.80 & 62.35 & 69.18 & 59.74 & 11.13 & 28.5 \\
+\bottomrule\end{tabular}\end{table}

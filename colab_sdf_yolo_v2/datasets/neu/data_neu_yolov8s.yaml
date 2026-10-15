@@ -1,0 +1,12 @@
+path: C:/Users/Shivapreetham/Desktop/colab_sdf_yolo_v2/colab_sdf_yolo_v2/datasets/neu
+train: C:/Users/Shivapreetham/Desktop/colab_sdf_yolo_v2/colab_sdf_yolo_v2/datasets/neu/train_rfs_0.1.txt
+val: images/val
+test: images/test
+nc: 6
+names:
+- crazing
+- inclusion
+- patches
+- pitted_surface
+- rolled-in_scale
+- scratches
