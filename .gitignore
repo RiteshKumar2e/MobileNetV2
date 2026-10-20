@@ -6,6 +6,11 @@
 # Large dataset archives
 GC10-DET.zip
 NEU-DET.zip
+colab_sdf_yolo_v2/*.zip
+colab_sdf_yolo_v2/datasets/*/images/
+colab_sdf_yolo_v2/datasets/*/labels/
+*.cache
+*.lock
 
 # YOLO exported datasets and per-run training artifacts
 paper_results/yolo/runs/
