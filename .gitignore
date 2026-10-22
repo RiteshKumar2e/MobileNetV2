@@ -6,6 +6,8 @@
 # Large dataset archives
 GC10-DET.zip
 NEU-DET.zip
+MobileNetV2_NEU_GPU_quick_smoke.zip
+MobileNetV2_NEU_GPU_results.zip
 colab_sdf_yolo_v2/*.zip
 colab_sdf_yolo_v2/datasets/*/images/
 colab_sdf_yolo_v2/datasets/*/labels/
