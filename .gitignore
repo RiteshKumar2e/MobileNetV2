@@ -6,6 +6,7 @@
 # Large dataset archives
 GC10-DET.zip
 NEU-DET.zip
+SDF_YOLO_new_runs_2026-10-23.zip
 MobileNetV2_NEU_GPU_quick_smoke.zip
 MobileNetV2_NEU_GPU_results.zip
 colab_sdf_yolo_v2/*.zip
