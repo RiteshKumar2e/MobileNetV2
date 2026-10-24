@@ -24,6 +24,8 @@ paper_results_gc10det/yolo/dataset/
 # Training and MLflow artifacts
 runs/
 mlruns/
+NEW_SDF_GPU/datasets/
+NEW_SDF_GPU/runs/
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
